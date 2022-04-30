@@ -17,8 +17,9 @@ body {
     /* background */
     background-image: url('../img/IMG_5102.JPG');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 240%;
     background-position: center center;
+    background-position-x: 45%;
     color: var(--primary-color);
     /* layout */
     display: flex;
